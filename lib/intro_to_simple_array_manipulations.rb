@@ -13,3 +13,12 @@ end
  new_neighborhood = "Barking"
  
 using_unshift(neighborhoods_in_east_london, new_neighborhood)
+
+
+def using_pop(array, element)
+end
+
+
+
+
+  
