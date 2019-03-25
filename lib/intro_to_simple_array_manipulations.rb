@@ -18,7 +18,6 @@ using_unshift(neighborhoods_in_east_london, new_neighborhood)
 def using_pop(array, element)
  array = []
   array_new = array.pop(element)
-  array_new
 end
 
 
